@@ -1,0 +1,6 @@
+/venv/
+/nominas/
+.env
+.idea/
+__pycache__/
+/plantillas/
